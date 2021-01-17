@@ -1,4 +1,4 @@
-# Eiyuden Discode Logger
+# Eiyuden Discord Logger
 Eiyuden Official Discord Logger powered by [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
 
 # Get started
