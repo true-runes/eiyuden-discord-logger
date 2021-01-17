@@ -1,5 +1,6 @@
 .envrc
-channels/eiyuden_discord_channels_*.txt
+eiyuden_discord_channels_*.txt
+eiyuden_discord_channels_*.csv
 
 # Logs
 logs
