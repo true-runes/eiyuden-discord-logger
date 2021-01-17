@@ -35,3 +35,7 @@ Usage
   dotnet DiscordChatExporter.Cli.dll [command] [options]
 ...
 ```
+
+# Official Documents
+- [Home · Tyrrrz/DiscordChatExporter Wiki](https://github.com/Tyrrrz/DiscordChatExporter/wiki)
+- [GUI, CLI and Formats explained · Tyrrrz/DiscordChatExporter Wiki](https://github.com/Tyrrrz/DiscordChatExporter/wiki/GUI%2C-CLI-and-Formats-explained#using-the-cli-)

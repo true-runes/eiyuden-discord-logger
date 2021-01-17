@@ -1,3 +1,6 @@
+.envrc
+channels/eiyuden_discord_channels_*.txt
+
 # Logs
 logs
 *.log
